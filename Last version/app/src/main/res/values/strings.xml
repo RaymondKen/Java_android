@@ -1,0 +1,12 @@
+<resources>
+        <string name="hello">Hello World, MyAndroidAppActivity!</string>
+        <string name="app_name">ToDoList</string>
+        <string name="chk_ios">IPhone</string>
+        <string name="chk_android">Android</string>
+        <string name="chk_windows">Windows Mobile</string>
+        <string name="btn_display">Display</string>
+        <string name="resume">Do you know how to use the application "TodoList"?\n\n
+                This Activity lets you understand how it works in a simple tutorial.\n\n
+                At the end of the page you will be able to access the documentation and the code source of the "Todolist".</string>
+        <string name="infoOne">This is the main page of the application allowing to see/list/create/delete its tasks.</string>
+</resources>
